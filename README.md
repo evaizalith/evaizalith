@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi, I'm FoundIzalith. 
+
+I'm a Computer Science student, and this is where I keep my code. 
 
 <!--
 **FoundIzalith/FoundIzalith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
