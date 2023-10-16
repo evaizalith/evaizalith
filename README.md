@@ -7,5 +7,5 @@ I'm a Computer Science student and undergraduate research assistant. I'm familia
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foundizalith&exclude_repo=amusement-park,resilienceAnalysis&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaizalith&exclude_repo=amusement-park,resilienceAnalysis&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
