@@ -1,6 +1,6 @@
 Hi, I'm Eva. 
 
-I'm a Computer Science student and undergraduate research assistant. I'm familiar with C/C++, Rust, Assembly, Python, and SQL. My main interests are systems programming, machine learning, and Linux. I like learning how to build systems from scratch and working close to the hardware. 
+I'm a Computer Science student and undergraduate research assistant. My interests include operating systems, compilers, machine learning, resilience analysis, and high performance computing. 
 
 <!--
 [![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=evaizalith)](https://github.com/anuraghazra/github-readme-stats)
