@@ -1,6 +1,6 @@
 Hi, I'm Eva. 
 
-I'm a 3rd year undergraduate Computer Science student and research assistant. My interests include operating systems, compilers, machine learning, resilience analysis, and high performance computing. 
+I'm currently an undergraduate research assistant, soon to be a graduate research assistant. My interests include operating systems, machine learning, and distributed computing.
 
 <!--
 [![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=evaizalith)](https://github.com/anuraghazra/github-readme-stats)
