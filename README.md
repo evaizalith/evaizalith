@@ -22,6 +22,12 @@ Undergraduate Research Assistant at GUANS Lab (May 2022 - December 2024)
 
 Information Technology Technician (May 2022 - December 2022)
 
+## Languages
+
+English 
+
+中文 (Chinese)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaizalith&exclude_repo=amusement-park,resilienceAnalysis,flowerpath&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
