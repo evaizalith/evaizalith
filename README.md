@@ -3,9 +3,9 @@
 **Abridged resume - contact me for the full version.**
 
 My computer science research interests include:
-- Operating Systems
-- Machine Learning
-- Data Analytics
+- Parallel Algorithms
+- High Performance Computing
+- Machine Learning and Artificial Intelligence
 - Computer Graphics
 
 ## Education
